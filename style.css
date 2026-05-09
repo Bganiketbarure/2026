@@ -37,7 +37,7 @@ header{
 /* LOGO */
 
 .logo img{
-    height:70px;
+    height:125px;
     width:auto;
     object-fit:contain;
 }
@@ -204,7 +204,7 @@ form button:hover,
     grid-template-columns:
     repeat(auto-fit,minmax(280px,1fr));
 
-    gap:30px;
+    gap:20px;
 }
 
 /* CARDS */
